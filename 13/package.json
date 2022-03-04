@@ -1,0 +1,14 @@
+{
+  "name": "13",
+  "version": "1.0.0",
+  "description": "",
+  "main": "13-非阻塞IO.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^7.2.0"
+  }
+}
